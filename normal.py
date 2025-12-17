@@ -1,0 +1,3 @@
+print("hello")
+for i in range(30):
+  print(i)
